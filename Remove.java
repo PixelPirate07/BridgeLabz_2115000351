@@ -6,7 +6,12 @@ public class Remove{
         String str=sc.nextLine();
         System.out.print("Enter the character to remove ");
         char remove=sc.next().charAt(0);
-        String result=str.replaceAll(String.valueOf(remove), "");
-        System.out.println("After removing string is " +result);
+        String str2="";
+        for(int i=0;i<str.length();i++) {
+            if (str.charAt(i)!=remove){
+                str2=str2+str.charAt(i);
+            }
+        }
+        System.out.println("Final string is "+str2);
     }
 }
