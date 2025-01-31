@@ -13,6 +13,8 @@ class Book{
         System.out.println("Author is "+author);
         System.out.println("Price is "+price);
     }
+}    
+public class Bookdetails{    
     public static void main(String[] args){
         Scanner sc=new Scanner(System.in);
         System.out.println("Enter title ");

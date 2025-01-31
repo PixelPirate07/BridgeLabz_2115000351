@@ -10,6 +10,8 @@ class Circle{
     public void displayCircumference(){
         System.out.println("Area is "+(3.14*radius*2));
     }
+}
+public class CircleCalculation{
     public static void main(String[] args){
         Scanner sc=new Scanner(System.in);
         System.out.println("Enter radius ");

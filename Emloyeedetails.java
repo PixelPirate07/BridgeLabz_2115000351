@@ -13,6 +13,8 @@ class Employee{
         System.out.println("ID is " +id);
         System.out.println("Salary is " +salary);
     }
+}
+public class Employeedetails{ 
     public static void main(String[] args){
         Scanner sc=new Scanner(System.in);
         System.out.println("Enter name ");
