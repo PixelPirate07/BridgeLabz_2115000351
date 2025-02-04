@@ -1,44 +1,133 @@
-usage: git [-v | --version] [-h | --help] [-C <path>] [-c <name>=<value>]
-           [--exec-path[=<path>]] [--html-path] [--man-path] [--info-path]
-           [-p | --paginate | -P | --no-pager] [--no-replace-objects] [--bare]
-           [--git-dir=<path>] [--work-tree=<path>] [--namespace=<name>]
-           [--config-env=<name>=<envvar>] <command> [<args>]
+# BridgeLabz_2115000351
 
-These are common Git commands used in various situations:
+# TASK 1:- DATE:-19/01/2025
+ Completed Assisted Problems & Self Problems (Assignment-1)
 
-start a working area (see also: git help tutorial)
-   clone     Clone a repository into a new directory
-   init      Create an empty Git repository or reinitialize an existing one
+# TASK 2:- DATE:-20/01/2025
+ Introduction to Java - What is Java?
+  - Bytecode
+  - JDK
+  - JRE
+  - JVM Basics
+- Main Features of JAVA:
+  - Simple
+  - Object-Oriented
+  - Robust
+  - Platform Independent
+  - History and Evolution of Java, JVM Architecture
+  - Java Fundamentals
 
-work on the current change (see also: git help everyday)
-   add       Add file contents to the index
-   mv        Move or rename a file, a directory, or a symlink
-   restore   Restore working tree files
-   rm        Remove files from the working tree and from the index
+# TASK 3:- DATE:-21/01/2025
+  Calling Static Methods:  
+  - From other static methods.  
+  - From non-static methods.  
 
-examine the history and state (see also: git help revisions)
-   bisect    Use binary search to find the commit that introduced a bug
-   diff      Show changes between commits, commit and working tree, etc
-   grep      Print lines matching a pattern
-   log       Show commit logs
-   show      Show various types of objects
-   status    Show the working tree status
+  Calling Non-Static Methods:  
+  - From static methods.  
+  - From other non-static methods.
 
-grow, mark and tweak your common history
-   branch    List, create, or delete branches
-   commit    Record changes to the repository
-   merge     Join two or more development histories together
-   rebase    Reapply commits on top of another base tip
-   reset     Reset current HEAD to the specified state
-   switch    Switch branches
-   tag       Create, list, delete or verify a tag object signed with GPG
+# TASK 4: DATE: 22-01-2025
+  1. Fundamental Concepts
+     - Comments: Understanding the purpose and usage of comments in code.
+     - Data Types: Exploring various data types and their applications.
+     - Variable Naming: Learning effective strategies for naming variables.
+  2. Operators and Type Conversion
+     - Operators: Studying different operators and their precedence.
+     - Type Conversion: Understanding how to convert between different data types.
+  3. Practice
+     - Level 1 Problems: Solved problems to reinforce understanding of basic concepts.
+        
+# Task 5: DATE: 23-01-2025
+  1. Control Flow in Java
+     - Java Control Flows: Studied the flow of control in Java programs.
+     - Boolean Expressions: Understanding the role of boolean expressions in decision-making.
+     - Conditional Statements: Learning about if, else, and other conditional constructs.
+  2. Looping and Branching
+     - Loops: Exploring for, while, and do-while loops.
+     - Break and Continue Statements: Understanding their usage in controlling loop execution.
+     - Switch Statements: Learning how to use switch statements for multi-way branching.
+  3. Practice
+     - Level 1 Problems: Solved introductory problems to apply control flow concepts.
+     - Level 2 Problems: Tackled intermediate-level problems.
+     - Level 3 Problems: Challenged with advanced problem-solving tasks.
+       
+# Task 6: DATE: 25-01-2025
+  1. Java Arrays
+    - Array Basics: Understanding how to declare, access, and modify arrays.
+    - Array Length: Learning how to determine the length of an array.
+    - Multidimensional Arrays: Exploring the creation and usage of multidimensional arrays.
+  2. Practice
+    - Level 1 Problems: Solved problems to reinforce understanding of array concepts.
+    - Level 2 Problems: Engaged in more complex problem-solving exercises involving arrays.
+     
+# Task 7: DATE: 27-01-2025
+  1. User-Defined Methods in Java
+    - Creating Methods: Understanding how to define and implement user-defined methods.
+    - Reusability: Learning how to use methods multiple times to enhance code reusability.
+    - Dynamic Methods: Exploring techniques to make methods more dynamic and flexible.
+  2. Recursive Methods
+    - Recursion Basics: Studying the concept of recursion and how to implement recursive methods.
+  3. Practice
+    - Problem Solving: Practiced problems to apply concepts of user-defined and recursive methods.
 
-collaborate (see also: git help workflows)
-   fetch     Download objects and refs from another repository
-   pull      Fetch from and integrate with another repository or a local branch
-   push      Update remote refs along with associated objects
+# Task 8: DATE: 28-01-2025
+  1. Static Methods in Java
+    - Static Methods: Understanding the characteristics and usage of static methods in Java.
+    - Java Standard Library Methods: Exploring commonly used methods from the Java Standard Library.
+    - Math Class: Learning about the methods available in the Math class for mathematical operations.
+    - Random Class-For Generating Random Numbers.
+  2. Practice
+    - Level 1 Problems: Solved introductory problems to apply static method concepts.
 
-'git help -a' and 'git help -g' list available subcommands and some
-concept guides. See 'git help <command>' or 'git help <concept>'
-to read about a specific subcommand or concept.
-See 'git help git' for an overview of the system.
+# Task 9: DATE: 29-01-2025
+   - String Handling in Java
+   - String Methods: Studied various methods available for string manipulation in Java.
+   - String Handling Concepts: Explored fundamental concepts related to handling strings effectively.
+   - String Problems: Solved problem statements focused on applying string methods and handling techniques.
+
+# Task 10: DATE: 30-01-2025
+  1. Built-in String Methods and Exception Handling
+    -String Built-in Methods: Learned about built-in methods for string operations in Java.
+    -Exception Handling: Studied the types and mechanisms of exception handling in Java.
+    -Type 1 Problems: Solved problems using built-in functions, including date and time operations.
+    -Type 2 Problems: Engaged in problem-solving exercises involving concepts like palindrome checks and Fibonacci sequences.
+
+# Task 11: DATE: 31-01-2025
+  1. Object-Oriented Programming (OOP) in Java
+    - OOP Overview: Gained an understanding of the principles and advantages of OOP.
+    - Comparison: Compared procedural programming with object-oriented programming.
+  2. Classes and Objects
+    - Java Class: Studied the structure and purpose of classes in Java.
+    - Java Object: Learned about creating and using objects in Java.
+  3. Practice
+    - Level 1 Problems: Practiced problems focusing on the application of OOP concepts, specifically classes and objects.
+
+# TASK 12: DATE: 01/02/2025
+   1. Java Constructor
+   2. Instance Variables
+   3. Access Modifiers
+
+# TASK 13: DATE: 02/02/2025
+   -Submission of Problems on Java Constructors, Instance vs. Class Variables, Access Modifiers Level 1 Lab Practice
+   - Java Constructors
+   - Instance vs. Class Variables
+   - Access Modifiers Level 1
+
+# TASK 14: DATE: 03/02/2025
+   1. this keyword
+     -Refers to the current object
+     -Resolves variable shadowing
+     -Supports constructor chaining
+   2. static keyword
+     -Belongs to the class, not instances
+     -Shared across all objects
+     -Used for variables, methods, blocks, and nested classes
+   3. final keyword
+     -Prevents modification or inheritance
+   4. instanceof
+     -Checks object type at runtime
+     -Prevents invalid type casting
+     -Useful in polymorphism
+
+# TASK 15: DATE:04/02/2025
+   -Submission of Problems on this, static, final key words and instanceof operator Level 1 Lab Practice 
