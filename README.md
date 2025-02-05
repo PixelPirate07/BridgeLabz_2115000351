@@ -131,3 +131,14 @@
 
 # TASK 15: DATE:04/02/2025
    -Submission of Problems on this, static, final key words and instanceof operator Level 1 Lab Practice 
+   
+# TASK 16: DATE:05/02/2025
+   1. Object Diagram
+     -Captures object instances and their relationships at a specific point in time
+     -Focus on object state, attributes, and associations
+   2. Class Diagram
+     -Represents the static structure of the system with classes, attributes, methods, and relationships
+     -Defines associations, inheritance, aggregation, and composition
+   3. Sequence Diagram
+     -Illustrates the interaction between objects over time
+     -Focuses on message flow, lifelines, activations, and method calls
