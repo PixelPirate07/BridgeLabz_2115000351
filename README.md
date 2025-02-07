@@ -142,3 +142,25 @@
    3. Sequence Diagram
      -Illustrates the interaction between objects over time
      -Focuses on message flow, lifelines, activations, and method calls
+
+# TASK 17: DATE:06/02/2025
+   1. Inheritance: Allows a subclass to inherit properties and methods from a superclass
+     -Superclass (Parent Class): The class whose members are inherited
+     -Subclass (Child Class): The class that inherits from another class
+   2. Types of Inheritance in Java
+     -Single Inheritance: Subclass inherits from one superclass
+     -Multilevel Inheritance: A class inherits from another subclass
+     -Hierarchical Inheritance: Multiple subclasses inherit from one superclass
+   3. Method Overriding
+     -@Override Annotation: Optional but recommended to avoid signature errors
+     -Same Method Signature: Method name, return type, and parameters must match the parent class method
+
+# TASK 18: DATE:07/02/2025
+   -Constructor Inheritance: Constructors are not inherited but can be called using super()
+   -Polymorphism and Inheritance
+   -Access Modifiers and Inheritance
+      --Public: Accessible from anywhere
+      --Protected: Accessible in the same package and by subclasses
+      --Default: Accessible within the same package
+      --Private: Only accessible within the class
+   -Submission of Inheritance Problems   
