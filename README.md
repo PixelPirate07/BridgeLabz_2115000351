@@ -163,4 +163,30 @@
       --Protected: Accessible in the same package and by subclasses
       --Default: Accessible within the same package
       --Private: Only accessible within the class
-   -Submission of Inheritance Problems   
+   -Submission of Inheritance Problems       
+
+# TASK 19: DATE:08/02/2025
+   -Encapsulation bundles data and methods into a single unit, restricting direct access to internal fields
+   -Ensures data integrity using private fields and public getter/setter methods
+   -Improves security, flexibility, and maintainability of the code
+
+# TASK 20: DATE:09/02/2025
+   1. Polymorphism
+     -Polymorphism in Java allows objects to be treated as instances of their parent class, enhancing flexibility, reusability, and extensibility
+     -Types of Polymorphism: Compile-time (method overloading) and Runtime (method overriding) using inheritance, interfaces, and abstract classes
+   2. Interface
+     -Java Interfaces define a contract with abstract methods that must be implemented by classes, enabling multiple inheritance and promoting loose coupling
+
+# TASK 21: DATE:10/02/2025
+   -Submission of Encapsulation, Polymorphism, Interface and Abstract Class
+   -Introduction of Data Structure 
+   -Key Features of Data Structures in Java
+
+
+
+
+
+
+ 
+
+  
