@@ -182,6 +182,17 @@
    -Introduction of Data Structure 
    -Key Features of Data Structures in Java
 
+# TASK 22: DATE:11/02/2025
+   1. Singly Linked List
+     -In a Singly Linked List, each node contains data and a pointer to the next node
+   2. Doubly Linked List
+     -In a Doubly Linked List, each node contains:
+         --Data.
+         --A pointer to the next node.
+         --A pointer to the previous node.
+   3. Circular Linked List
+     -In a Circular Linked List, the last node points back to the first node, forming a circle.
+   4. Submission of Problems on Data Structure - LinkedList 
 
 
 
