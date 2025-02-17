@@ -194,9 +194,58 @@
      -In a Circular Linked List, the last node points back to the first node, forming a circle.
    4. Submission of Problems on Data Structure - LinkedList 
 
+# TASK 23: DATE:12/02/2025
+   1. Stacks and Queues in Java
+     -Stack (LIFO) and Queue (FIFO) concepts with key operations (push, pop, enqueue, dequeue)
+     -Use cases: expression evaluation, recursion management, task scheduling
 
+# TASK 24: DATE:13/02/2025
+   1. HashMap and Hashing
+     -Explanation of HashMap and hashing mechanism
+     -Key operations: put, get, remove, handling collisions, and performance considerations
+   2. Submission of Problems On Stack , Queue, HashMap and Hashing Function
+   3. Sorting Algorithms
+     -Bubble Sort
+     -Insertion Sort
+     -Merge Sort 
+       
+# TASK 25: DATE:14/02/2025
+   1. Sorting Algorithms
+     -Quick Sort
+     -Counting Sort
+     -Heap Sort
+     -Selection Sort   
+   2. Submission of Problems On Sorting Algorithms
 
-
+ # TASK 26: DATE:15/02/2025     
+   1. Linear Search & Binary Search
+     -Linear Search: Sequentially checks each element; O(n) time complexity
+     -Binary Search: Efficient search for sorted arrays using divide-and-conquer; O(log n) time complexity
+   2. StringBuilder & StringBuffer
+     -StringBuilder: Mutable, faster, not thread-safe
+     -StringBuffer: Mutable, thread-safe, slightly slower due to synchronization
+         
+# TASK 27: DATE:16/02/2025
+   1. BufferedReader, FileReader, InputStreamReader
+     -BufferedReader: Reads text efficiently using a buffer, reduces I/O operations
+     -FileReader: Reads character files directly but lacks buffering
+     -InputStreamReader: Converts byte streams to character streams, used for reading from input sources like System.in
+   2. What is Runtime Analysis?
+   3. Understanding Big-O Notation
+   4. Submission of Problems On Linear and Binary Search
+      
+# TASK 28: DATE:17/02/2025
+   1. Time Complexity Analysis
+     -Measures the growth of an algorithm's running time relative to input size (Big-O notation)
+   2. Space Complexity Analysis
+     -Determines the total memory required by an algorithm, including input size and auxiliary space
+   3. Best, Worst, and Average Case Complexities
+     -Best Case: Minimum time required (ideal scenario)
+     -Worst Case: Maximum time required (most inefficient scenario)
+     -Average Case: Expected time considering all possible inputs
+   4. Practical Guidelines for Optimizing Java Code
+   5. Submission of Algorithm's Runtime Analysis & Big-O Notation
+ 
 
  
 
