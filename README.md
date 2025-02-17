@@ -1,10 +1,10 @@
 # BridgeLabz_2115000351
 
-# TASK 1:- DATE:-19/01/2025
+# TASK 1: DATE:-19/01/2025
  Completed Assisted Problems & Self Problems (Assignment-1)
 
-# TASK 2:- DATE:-20/01/2025
- Introduction to Java - What is Java?
+# TASK 2: DATE:-20/01/2025
+ 1. Introduction to Java - What is Java?
   - Bytecode
   - JDK
   - JRE
@@ -17,12 +17,12 @@
   - History and Evolution of Java, JVM Architecture
   - Java Fundamentals
 
-# TASK 3:- DATE:-21/01/2025
-  Calling Static Methods:  
+# TASK 3: DATE:-21/01/2025
+  1. Calling Static Methods:  
   - From other static methods.  
   - From non-static methods.  
 
-  Calling Non-Static Methods:  
+  2. Calling Non-Static Methods:  
   - From static methods.  
   - From other non-static methods.
 
