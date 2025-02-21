@@ -245,8 +245,40 @@
      -Average Case: Expected time considering all possible inputs
    4. Practical Guidelines for Optimizing Java Code
    5. Submission of Algorithm's Runtime Analysis & Big-O Notation
- 
+      
+# TASK 29: DATE:18/02/2025
+   1. Introduction to Generics
+      -Enables type-safe, reusable, and flexible code.
+   2. Why Use Generics?
+      -Type Safety: Prevents ClassCastException.
+      -Code Reusability: Single generic class/method supports multiple data types.
+   3. Submission of Assignment On Java Generics       
 
- 
-
+# TASK 30: DATE:19/02/2025
+   1. Java Collection Framework standardizes data storage and manipulation.
+   2. List (ArrayList, LinkedList, Vector) – Ordered, allows duplicates.
+   3. Set (HashSet, LinkedHashSet, TreeSet) – Unique elements, different ordering.
+        
+# TASK 31: DATE:20/02/2025
+   1. Queue/Deque (PriorityQueue, ArrayDeque) – FIFO/LIFO processing.
+   2. Map (HashMap, LinkedHashMap, TreeMap, Hashtable) – Key-value pairs.
+   3. Submission of Assignment On Collections
+   4. Types of Streams
+      -Byte Streams: Handles binary data (e.g., images, PDFs).
+      -Character Streams: Handles text files with character encoding. 
   
+# TASK 32: DATE:21/02/2025
+   1. File Streams
+     -Byte Streams:
+        -FileInputStream: Reads bytes from a file.
+        -FileOutputStream: Writes bytes to a file.
+   2. Object Streams
+     -Serialization: Convert objects into byte stream.
+     -Deserialization: Convert byte stream into objects.
+   3. Exceptions 
+     -Types of Exceptions
+     -Handling Exceptions
+   4. Submission of Assignment On Exceptions
+   5. Submission of Assignment On Java Streams   
+   
+    
