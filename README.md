@@ -281,4 +281,16 @@
    4. Submission of Assignment On Exceptions
    5. Submission of Assignment On Java Streams   
    
-    
+# TASK 32: DATE:21/02/2025
+   1. Regex 
+     -MetaCharacter
+     -Quantifier
+   2. Common Patterns: Email Validation , Password Strength , Phone Number Format 
+   3. Java Regex API 
+     -Pattern
+     -Matcher
+   4. Introduction to JUnit Framework
+     -JUnit Annotations  
+     -Writing Test Cases
+   5. Submission of Assignment On Regex   
+   6. Submission of Assignment On JUnit
